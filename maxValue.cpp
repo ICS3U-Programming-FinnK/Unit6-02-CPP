@@ -1,6 +1,6 @@
 // Created by: Finn Kitor
 // Created on: December 14th, 2023
-// this program generates 10 numbers between 0 to 100 and it finds the maximum value of the list.
+// this program generates 10 numbers between 0 to 100 and it finds the maximum value of the array.
 #include <iostream>
 #include <time.h>
 #include <array>
